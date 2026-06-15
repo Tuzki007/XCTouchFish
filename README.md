@@ -18,3 +18,5 @@ Chrome Plugin安装过程
 
 <img width="490" height="287" alt="image" src="https://github.com/user-attachments/assets/675e01ce-0a84-45dc-8d4e-da6733a0b8c9" />
 
+PC Mac安装包
+
