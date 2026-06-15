@@ -18,5 +18,7 @@ Chrome Plugin安装过程
 
 <img width="490" height="287" alt="image" src="https://github.com/user-attachments/assets/675e01ce-0a84-45dc-8d4e-da6733a0b8c9" />
 
+3、VSCode插件
+<img width="1604" height="1726" alt="image" src="https://github.com/user-attachments/assets/f145187f-f42d-47ed-91bd-6f9589802184" />
 
-
+slogan：领导总想PUA你，说这为了你好，提升效率，而我只想让你开心的去摸鱼
